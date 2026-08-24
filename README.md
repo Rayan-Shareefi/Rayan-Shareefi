@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="profile-social-preview" src="https://github.com/user-attachments/assets/6551d6c4-a1f1-4e7a-83ae-f3116640afa0" />
+
 Cybersecurity and cloud. I build detection systems and deploy them.
 
 ---
