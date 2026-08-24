@@ -1,16 +1,16 @@
-## Hi there 👋
+Cybersecurity and cloud. I build detection systems and deploy them.
 
-<!--
-**Rayan-Shareefi/Rayan-Shareefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### WiFi Intrusion Detection System with Encrypted Cloud Alerting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passive WiFi intrusion detection running on a single ESP32. It detects
+deauthentication floods, evil-twin access points, and unknown devices joining
+the network, then delivers encrypted, certificate-authenticated alerts through
+AWS to a live dashboard.
+
+**[Live demo](https://wids-demo.vercel.app)**
+· [Repository](https://github.com/Rayan-Shareefi/WiFi-Intrusion-Detection-System-with-Encrypted-Cloud-Alerting)
+
+> The public demo runs on sample data. A real sensor streams to a private,
+> token-protected dashboard.
